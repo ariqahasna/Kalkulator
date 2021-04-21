@@ -1,0 +1,10 @@
+C:\Users\ROG SCAR II\source\repos\kk2_ariqah\kk2_ariqah\bin\Debug\kk2_ariqah.exe.config
+C:\Users\ROG SCAR II\source\repos\kk2_ariqah\kk2_ariqah\bin\Debug\kk2_ariqah.exe
+C:\Users\ROG SCAR II\source\repos\kk2_ariqah\kk2_ariqah\bin\Debug\kk2_ariqah.pdb
+C:\Users\ROG SCAR II\source\repos\kk2_ariqah\kk2_ariqah\obj\Debug\kk2_ariqah.csprojAssemblyReference.cache
+C:\Users\ROG SCAR II\source\repos\kk2_ariqah\kk2_ariqah\obj\Debug\kk2_ariqah.Form1.resources
+C:\Users\ROG SCAR II\source\repos\kk2_ariqah\kk2_ariqah\obj\Debug\kk2_ariqah.Properties.Resources.resources
+C:\Users\ROG SCAR II\source\repos\kk2_ariqah\kk2_ariqah\obj\Debug\kk2_ariqah.csproj.GenerateResource.cache
+C:\Users\ROG SCAR II\source\repos\kk2_ariqah\kk2_ariqah\obj\Debug\kk2_ariqah.csproj.CoreCompileInputs.cache
+C:\Users\ROG SCAR II\source\repos\kk2_ariqah\kk2_ariqah\obj\Debug\kk2_ariqah.exe
+C:\Users\ROG SCAR II\source\repos\kk2_ariqah\kk2_ariqah\obj\Debug\kk2_ariqah.pdb
